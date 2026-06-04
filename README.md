@@ -1,21 +1,3 @@
-<p style="text-align:center;width:100%;"><img src="/art/preview.png" alt="Chatify Laravel Package"></p>
-
-<p align="center">
-<a href="https://github.com/laravel/telescope/actions"><img src="https://poser.pugx.org/munafio/chatify/v/stable?style=flat-square" alt="Build Status"></a>
-<a href="https://packagist.org/packages/munafio/chatify"><img src="https://poser.pugx.org/munafio/chatify/downloads?style=flat-square" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/munafio/chatify"><img src="https://poser.pugx.org/munafio/chatify/license?style=flat-square" alt="License"></a>
-</p>
-
-## Chatify Laravel Package
-
-Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.
-
-## Need a Help? 📣
-
-I have created a server for **Chatify** on `Discord` to let you **up-to-date** and help you as much as I can .. so now you can chat with me, get a help, showcases, and most importantly to get announcements and updates about **Chatify**.
-
-So, [join now](https://discord.gg/RaxyKVykYJ) and keep updated.
-
 ## Features
 
 - One-to-one users chat system.
