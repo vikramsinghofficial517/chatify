@@ -36,21 +36,3 @@ So, [join now](https://discord.gg/RaxyKVykYJ) and keep updated.
   with simple and wonderful UI design.
 
 ...and much more you have to discover it yourself.
-
-## Demo
-
-- Demo app - [Click Here](https://github.com/munafio/chatify-demo).
-<!-- - Demo video on YouTube - [Click Here](https://youtu.be/gjo74FUJJPI) -->
-
-## Official Documentation
-
-The official documentation can be found [here](https://chatify.munafio.com)
-
-## Change log
-
-[CHANGELOG.md](https://github.com/munafio/chatify/blob/master/CHANGELOG.md)
-
-## Author
-
-- [Munaf A. Mahdi](https://www.munafio.com)
-
